@@ -1,0 +1,7 @@
+name: streamlit-env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - streamlit
