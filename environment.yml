@@ -2,6 +2,8 @@ name: streamlit-env
 channels:
   - defaults
 dependencies:
+  - python=3.11
+  - streamlit
   - matplotlib
   - pandas
-  - streamlit
+  - scikit-learn

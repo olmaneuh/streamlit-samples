@@ -6,6 +6,7 @@ This repository is a collection of various examples and code snippets to help yo
 
 - [Getting Started](#getting-started)
 - [Examples](#examples)
+- [Demos](#demos)
 - [License](#license)
 
 ## Getting Started
@@ -15,7 +16,7 @@ Before you can run the examples in this repository, you'll need to have [Anacond
 1. Clone the repository:
 
    ```
-   git clone https://github.com/<your_username>/streamlit-samples.git
+   git clone https://github.com/[your_username]/streamlit-samples.git
 
    cd streamlit-samples
    ```
@@ -23,9 +24,9 @@ Before you can run the examples in this repository, you'll need to have [Anacond
 2. Create a conda environment:
 
    ```
-   conda create --name <conda_env_name> python=3.9
+   conda create --name [conda_env_name] python=3.9
 
-   conda activate <conda_env_name>
+   conda activate [conda_env_name]
    ```
 
 3. Install the required dependencies:
@@ -36,12 +37,16 @@ Before you can run the examples in this repository, you'll need to have [Anacond
 
 4. Run a sample:
    ```
-   streamlit run 000-basics/<script_name>.py
+   streamlit run 000-basics/[script_name].py
    ```
 
 ## Examples
 
 - [**Basic:**](000-basics) Introductory Streamlit examples that demonstrate key features such as widgets, layouts, and displaying data. These examples are ideal for beginners to learn how to create simple, interactive apps with Streamlit.
+
+## Demos
+
+- TODO...
 
 ## License
 
