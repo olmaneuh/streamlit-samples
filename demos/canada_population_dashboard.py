@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # load the data
-RAW_URL = "https://raw.githubusercontent.com/marcopeix/MachineLearningModelDeploymentwithStreamlit/master/12_dashboard_capstone/data/quarterly_canada_population.csv"
+RAW_URL = "./data/quarterly_canada_population.csv"
 SOURCE_URL = "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901"
 
 
